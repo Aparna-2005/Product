@@ -1,0 +1,43 @@
+.About-header{
+    background-color: white;
+    padding: 2rem 5rem;
+}
+.About-text{
+    color: rgb(205, 72, 72,0.75);
+    text-align: center;
+}
+.row{
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    border: none;
+}
+.card-body .card-text{
+    color: black;
+    text-align: center;
+}
+.img{
+    width: 150px;
+    height: 150px;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+.Abt-content2{
+    background-color: cadetblue;
+   padding: 5rem 2rem;
+}
+.card-body .card-title1{
+    color: black;
+    text-align: start;
+    padding: 5px;
+}
+.card-body .card-text1{
+    color: black;
+    text-align: justify;
+    padding: 5px;
+}
+.img1{
+    width: 700px;
+    height: 400px;
+}

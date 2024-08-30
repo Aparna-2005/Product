@@ -1,0 +1,38 @@
+
+body{
+  width: 100%;
+  background-color: black;
+}
+
+.btn1{
+  background-color: yellow;
+  width: 150px;
+  height: 80px;
+  padding: 12px;
+  border-radius: 5px;
+  color: black;
+}
+
+.btn-light{
+  background-color: transparent;
+  border: 2px solid white;
+  width: 150px;
+  height: 75px;
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+}
+
+.btn1:hover{
+  box-shadow:3px 3px 0.1px black;
+  width: 120%;
+  height: 75px;
+  transform: scale(1.1,1.1);
+}
+
+.btn-light:hover{
+  box-shadow:3px 3px 0.1px black;
+  width: 200px;
+  height: 75px;
+  transform: scale(1.1,1.1);
+}

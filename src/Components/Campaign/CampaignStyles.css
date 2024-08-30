@@ -1,0 +1,66 @@
+.cam_container{
+    padding: 1rem 2rem;
+    margin: 5px;
+    background-color: #000;
+    opacity: 0.8;
+}
+
+.container1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+    height: 100vh;
+    opacity: 0.9;
+}
+
+.input_field{
+    display: flex;
+    padding: 15px;
+}
+
+.input_field label{
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    width: 500px;
+
+}
+
+.input_field input{
+    width: 300px;
+    height: 75px;
+    border-radius: 30px;
+    border: 1px solid black;
+   padding: 1.5rem 1rem;
+   color: black;
+}
+
+.input_field textarea{
+    width: 300px;
+    height: 75px;
+    border-radius: 30px;
+    border: 2px solid grey;
+   padding: 1.5rem 1rem;
+}
+.btn11{
+    width: 600px;
+    height: 75px;
+    border-radius: 35px;
+}
+.submit_btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+.input_field input,textarea :hover{
+    border: 2px solid black;
+}
+.tbl{
+    padding: 2rem;
+    border: 2px solid black;
+    margin: 15px;
+}

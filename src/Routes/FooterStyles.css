@@ -1,0 +1,19 @@
+.footer-h1{
+    font-size:20px;
+    color:white;
+    font-weight:bold;
+  }
+
+.footer-p{
+    color: #bfbfbf;
+    font-size:15px;
+  }
+
+  .Footer-container{
+   padding: 10px 20px;
+   background-color: #0b0b0b;
+  }
+
+  button,input{
+    border: 1px solid black;
+  }
